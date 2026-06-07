@@ -109,6 +109,10 @@ margin-bottom:5px;
 white-space:nowrap;
 }
 
+.stat-box h3 span{
+font-size:0.8em;
+}
+
 .stat-box p{
 font-size:14px;
 opacity:0.8;
